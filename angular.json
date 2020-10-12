@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "FormValid"
+    }
+  },
+  "defaultProject": "FormValid",
+  "cli": {
+    "analytics": "bcec7012-ce35-46e6-b538-d7e5f7d46c71"
+  }
 }
